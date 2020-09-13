@@ -1,6 +1,6 @@
 ### Hey, I'm Mark - [website]
 
-## I'm a Computer Science Graduate aspiring to a career in software development!
+## I'm a Junior Software Developer!
 
 ### Connect with me:
 
