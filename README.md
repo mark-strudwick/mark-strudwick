@@ -1,6 +1,6 @@
 ### Hey, I'm Mark - [website]
 
-## I'm a Junior Software Developer!
+## I'm a Software Developer!
 
 ### Connect with me:
 
