@@ -1,4 +1,4 @@
-### Hey, I'm Mark - [website]
+### Hey, I'm Mark
 
 ## I'm a Software Developer!
 
