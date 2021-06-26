@@ -5,9 +5,7 @@
 - ☁️ I'm a cloud enthusiast - mostly using AWS and it's services
 
 ### Connect with me:
-
-[<img align="left" alt="markstrudwick.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="markstrudwick | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<img align="left" alt="markstrudwick | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> <a href="https://www.linkedin.com/in/mark-strudwick/">Mark Strudwick</a>
 
 ### Languages and Tools:
 
