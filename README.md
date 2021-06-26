@@ -1,13 +1,13 @@
-# Hey, I'm Mark
+## Hey, I'm Mark
 
-## I'm a Software Developer!
+### I'm a Software Developer!
+- 💻 I currently work for Transalis. [Check them out!] (https://www.transalis.com/)
+- ☁️ I'm a cloud enthusiast - mostly using AWS and it's services
 
 ### Connect with me:
 
 [<img align="left" alt="markstrudwick.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="markstrudwick | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-<br />
 
 ### Languages and Tools:
 
