@@ -2,7 +2,7 @@
 
 ### I'm a Software Developer!
 - 💻 I currently work for Transalis, [Check them out!](https://www.transalis.com/)
-- ☁️ I'm a cloud enthusiast - mostly using AWS and it's services
+- ☁️ I'm a cloud enthusiast - mostly using AWS
 
 ### Connect with me:
 <img align="center" alt="markstrudwick | LinkedIn" width="22px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" /> <a href="https://www.linkedin.com/in/mark-strudwick/">Mark Strudwick</a>
