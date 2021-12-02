@@ -1,7 +1,6 @@
 ## Hey, I'm Mark
 
 ### I'm a Software Developer!
-- 💻 I currently work for Transalis, [Check them out!](https://www.transalis.com/)
 - ☁️ I'm a cloud enthusiast - mostly using AWS
 
 ### Connect with me:
